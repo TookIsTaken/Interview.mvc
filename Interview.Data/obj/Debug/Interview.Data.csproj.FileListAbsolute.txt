@@ -1,0 +1,7 @@
+C:\Users\bmoye\Documents\GitHub\Interview.mvc\Interview.Data\obj\Debug\Interview.Data.csprojResolveAssemblyReference.cache
+C:\Users\bmoye\Documents\GitHub\Interview.mvc\Interview.Data\bin\Debug\Interview.Data.dll
+C:\Users\bmoye\Documents\GitHub\Interview.mvc\Interview.Data\bin\Debug\Interview.Data.pdb
+C:\Users\bmoye\Documents\GitHub\Interview.mvc\Interview.Data\bin\Debug\Interview.Data.Model.dll
+C:\Users\bmoye\Documents\GitHub\Interview.mvc\Interview.Data\bin\Debug\Interview.Data.Model.pdb
+C:\Users\bmoye\Documents\GitHub\Interview.mvc\Interview.Data\obj\Debug\Interview.Data.dll
+C:\Users\bmoye\Documents\GitHub\Interview.mvc\Interview.Data\obj\Debug\Interview.Data.pdb

@@ -1,0 +1,4 @@
+C:\Users\bmoye\Documents\GitHub\Interview.mvc\Interview.Data.Model\bin\Debug\Interview.Data.Model.dll
+C:\Users\bmoye\Documents\GitHub\Interview.mvc\Interview.Data.Model\bin\Debug\Interview.Data.Model.pdb
+C:\Users\bmoye\Documents\GitHub\Interview.mvc\Interview.Data.Model\obj\Debug\Interview.Data.Model.dll
+C:\Users\bmoye\Documents\GitHub\Interview.mvc\Interview.Data.Model\obj\Debug\Interview.Data.Model.pdb

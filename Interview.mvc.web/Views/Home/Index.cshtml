@@ -1,0 +1,31 @@
+﻿@model Interview.mvc.web.Models.UserTableViewModel
+@{
+    ViewBag.Title = "Home Page";
+}
+<div id="page-content-wrapper">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-lg-12">
+                <table id="users" class="table">
+                    <thead>
+                        <tr>
+                            <th class="sorting">First Name</th>
+                            <th class="sorting">Last Name</th>
+                            <th>Status</th>
+                        </tr>
+                    </thead>
+                    @foreach (var user in Model.Users)
+                    {
+                    <tr>
+                        <td>@user.FirstName</td>
+                        <td>@user.LastName</td>
+                        <td>@user.Status</td>
+                    </tr>
+                    }
+                </table>
+                
+                   
+            </div>
+        </div>
+    </div>
+</div>
